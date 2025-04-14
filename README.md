@@ -1,2 +1,2 @@
 # ProgressBar
-Created with CodeSandbox
+It is a dynamically updating progress bar
